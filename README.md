@@ -9,7 +9,11 @@ Hello Developer if you are new in JavaScript dont worry in this tutorial you wil
  
  JavaScript it not just inspired by Java , it inspired by Scheme and Self  too.
  
+ 
  [A bref history of JavaScript](https://medium.com/@benastontweet/lesson-1a-the-history-of-javascript-8c1ce3bffb17)
  
-
+       plan study 
+       
+       ⋅⋅* list 1
+       ⋅⋅* list 2
  
