@@ -15,5 +15,5 @@ Hello Developer if you are new in JavaScript dont worry in this tutorial you wil
  
    Plan study:
    
-        --*List 
+* Unordered list can use asterisks
  
