@@ -17,8 +17,12 @@ Hello Developer if you are new in JavaScript dont worry in this tutorial you wil
  
    Plan study:
    
- 1. how to Implementations and usage JavaScript
+ 1. how to Implementations and usage JavaScript.
+ 
  2.what is the  Influnces  and comparision  to other Languages.
+ 
  3. what are to riticism and advantages to javascript
+ 
  4. What is a scripting Language.
+ 
  5.
