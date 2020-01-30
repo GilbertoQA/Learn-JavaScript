@@ -19,10 +19,28 @@ Hello Developer if you are new in JavaScript dont worry in this tutorial you wil
    
  1. how to Implementations and usage JavaScript.
  
- 2.what is the  Influnces  and comparision  to other Languages.
+ 2. what is the  Influnces  and comparision  to other Languages.
  
  3. what are to riticism and advantages to javascript
  
  4. What is a scripting Language.
  
- 5.
+ 5. Values, Types, and Operators
+ 
+ 6. Program Structure
+ 
+ 7. FUnctions
+ 
+ 8. Data Structures: Objects and Arrays
+ 
+ 9. Higher-order Functions
+
+10.  Objects
+
+11. Bugs and Errors
+
+12. Regular Expressions
+
+13. Modules
+
+14. 
