@@ -1,6 +1,8 @@
 # Learn-JavaScript
 Tutorial for beginner for learn JavaScript from scratch to master
 
+  created by: Gilberto Quintero  I am a young Software Developer if you want to know more about me, then check out my personal webiste  [Here](http://www.gilbertoquintero.com/)
+
 
 Hello Developer if you are new in JavaScript dont worry in this tutorial you will going to learn all you should know about JavaScript if you want to start work with him.
 
@@ -15,9 +17,8 @@ Hello Developer if you are new in JavaScript dont worry in this tutorial you wil
  
    Plan study:
    
- 1. First ordered list item
- 1. First ordered list item
- 1. First ordered list item
- 1. First ordered list item
- 1. First ordered list item
- 
+ 1. how to Implementations and usage JavaScript
+ 2.what is the  Influnces  and comparision  to other Languages.
+ 3. what are to riticism and advantages to javascript
+ 4. What is a scripting Language.
+ 5.
