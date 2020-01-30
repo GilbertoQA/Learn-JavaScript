@@ -17,6 +17,15 @@ Hello Developer if you are new in JavaScript dont worry in this tutorial you wil
  
    Plan study:
    
+   
+   
+   before you start with this tutorial I recommend you read this next articles:
+   
+   
+   - [Thinking like a programmer](https://www.freecodecamp.org/news/how-to-think-like-a-programmer-lessons-in-problem-solving-d1d8bf1de7d2/)
+
+     
+   
  1. how to Implementations and usage JavaScript.
  
  2. what is the  Influnces  and comparision  to other Languages.
@@ -29,7 +38,7 @@ Hello Developer if you are new in JavaScript dont worry in this tutorial you wil
  
  6. Program Structure
  
- 7. FUnctions
+ 7. Functions
  
  8. Data Structures: Objects and Arrays
  
@@ -43,4 +52,12 @@ Hello Developer if you are new in JavaScript dont worry in this tutorial you wil
 
 13. Modules
 
-14. 
+14. Asynchronous Programming
+
+15. Introduction to JavaScript and the Browser
+
+16. The Document Object Model or DOM
+
+17. Handling Events
+
+
