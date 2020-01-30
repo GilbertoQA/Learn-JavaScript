@@ -12,8 +12,8 @@ Hello Developer if you are new in JavaScript dont worry in this tutorial you wil
  
  [A bref history of JavaScript](https://medium.com/@benastontweet/lesson-1a-the-history-of-javascript-8c1ce3bffb17)
  
-       plan study 
-       
-       ⋅⋅* list 1
-       ⋅⋅* list 2
+ 
+   Plan study:
+   
+        --*List 
  
