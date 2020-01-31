@@ -34,6 +34,8 @@ Hello Developer if you are new in JavaScript dont worry in this tutorial you wil
  
  4. What is a scripting Language.
  
+    - [Script Language?]( https://www.computerhope.com/jargon/s/script.htm)
+ 
  5. Values, Types, and Operators
  
  6. Program Structure
