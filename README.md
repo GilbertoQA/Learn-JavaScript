@@ -17,6 +17,12 @@ Hello Developer if you are new in JavaScript dont worry in this tutorial you wil
  
    Plan study:
    
+   videos - Introduction to JavaScript:
+   
+    [Introduction to JavaScript](https://www.youtube.com/watch?v=W6NZfCO5SIk)
+
+   --------------------------------------------------------------------------------------------------
+   
    
    
    before you start with this tutorial I recommend you read this next articles:
