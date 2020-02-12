@@ -1,7 +1,8 @@
 # Learn-JavaScript
 Tutorial for beginner for learn JavaScript from scratch to master
 
-  created by: Gilberto Quintero  I am a young Software Developer if you want to know more about me, then check out my personal webiste  [Here](http://www.gilbertoquintero.com/)
+  created by: Gilberto Quintero  I am a  Software Developer if you want to know more about me, then check out my personal webiste  [Here](http://www.gilbertoquintero.com/)
+  -----------------------------------------------------------------------------------------------------------------
 
 
 Hello Developer if you are new in JavaScript dont worry in this tutorial you will going to learn all you should know about JavaScript if you want to start work with him.
@@ -23,7 +24,7 @@ Hello Developer if you are new in JavaScript dont worry in this tutorial you wil
    [Introduction to JavaScript](https://www.youtube.com/watch?v=W6NZfCO5SIk)
 
    
- 
+ -----------------------------------------------------------------------------------------------------------------------
    
    before you start with this tutorial I recommend you read this next articles:
    
@@ -31,19 +32,18 @@ Hello Developer if you are new in JavaScript dont worry in this tutorial you wil
    - [Thinking like a programmer](https://www.freecodecamp.org/news/how-to-think-like-a-programmer-lessons-in-problem-solving-d1d8bf1de7d2/)
 
      
-   
- 1. how to Implementations and usage JavaScript.
+  
  
- 2. what is the  Influnces  and comparision  to other Languages.
  
- 3. what are to riticism and advantages to javascript
- 
- 4. What is a scripting Language.
+ - What is a scripting Language.
  
     - [Script Language?]( https://www.computerhope.com/jargon/s/script.htm)
  
- 5. Values, Types, and Operators
+ 5. Types and variables
  
+      [Type and variables](https://www.geeksforgeeks.org/variables-datatypes-javascript/)
+      
+      
  6. Program Structure
  
  7. Functions
